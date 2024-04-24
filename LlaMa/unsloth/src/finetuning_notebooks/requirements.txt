@@ -1,0 +1,10 @@
+packaging 
+ninja 
+einops 
+flash-attn 
+xformers 
+trl 
+peft 
+accelerate 
+bitsandbytes
+unsloth[cu121] @ git+https://github.com/unslothai/unsloth.git
