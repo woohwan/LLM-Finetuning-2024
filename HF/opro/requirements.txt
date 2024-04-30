@@ -1,0 +1,12 @@
+trl
+transformers
+datasets
+accelerate
+packaging
+torch
+flash-attn
+peft
+bitsandbytes
+wandb
+ipykernel
+jupyter
